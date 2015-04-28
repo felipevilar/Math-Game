@@ -1,0 +1,35 @@
+#Scenemain{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	background-color : #ffffff;
+	background-image : url('..\\..\\images\\intro_background.jpg');
+	background-size : 1280px 720px;
+	visibility : visible;
+}
+#Scenemain #option1_bt{
+	position : absolute;
+	left : 450px;
+	top : 390px;
+	width : 330px;
+}
+#Scenemain #option2_bt{
+	position : absolute;
+	left : 450px;
+	top : 460px;
+	width : 330px;
+}
+#Scenemain #option3_bt{
+	position : absolute;
+	left : 450px;
+	top : 530px;
+	width : 330px;
+}
+#Scenemain #option4_bt{
+	position : absolute;
+	left : 450px;
+	top : 600px;
+	width : 330px;
+}

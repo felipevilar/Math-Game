@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tv.samsung.sdk="http://www.samsung.com/tvsdk">
+  <tv.samsung.sdk:VisualScene xmi:id="_MRQJsOCAEeSjNrx4cN1t-A" sId="5ieq33duakpjh" sName="tabscreen" sType="2" sBgImage="images\background-tabuleiro.png" sBgClr="#ffffff" sWidth="1280" sHeight="720">
+    <sComponents xmi:type="tv.samsung.sdk:VisualCtrlComponent" xmi:id="_5FcJ8O1VEeSY5Y8qo7cg2A" sWidth="130.0" sHeight="40.0" sBgImage="images\tabuleiro_x15_y150.png" sResolution="720" sId="tabuleiro" sCaption="" sResizeOpt="ResizeOption_Both" sUserCodeIncludeJs="" sUserCodeInit="" sUserCodeDestroy="" sUserLibJs="" sUserLibImgDir="" sUserLibCss="" sType="image" sFunctionName="sfImage" sLockCaption="true">
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_5FcJ8e1VEeSY5Y8qo7cg2A" sType="NUMBER" sValue="410" sName="left"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_5FcJ8u1VEeSY5Y8qo7cg2A" sType="NUMBER" sValue="442" sName="top"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_5FcxAO1VEeSY5Y8qo7cg2A" sType="NUMBER" sValue="" sName="width"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_5FcxAe1VEeSY5Y8qo7cg2A" sType="NUMBER" sValue="" sName="height"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_5FcxAu1VEeSY5Y8qo7cg2A" sAllowArrayNameChange="true" sNullString="" sName="src" sOrder="-1" sValue="images\\tabuleiro_x15_y150.png"/>
+    </sComponents>
+  </tv.samsung.sdk:VisualScene>
+  <notation:Diagram xmi:id="_MRQwwOCAEeSjNrx4cN1t-A" type="VisualScene" element="_MRQJsOCAEeSjNrx4cN1t-A" name="tabscreen.scene" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_5FqzcO1VEeSY5Y8qo7cg2A" type="2001" element="_5FcJ8O1VEeSY5Y8qo7cg2A" fontName="Segoe UI">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Fqzce1VEeSY5Y8qo7cg2A" x="15" y="150" width="1250" height="564"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_MRQwweCAEeSjNrx4cN1t-A"/>
+  </notation:Diagram>
+</xmi:XMI>

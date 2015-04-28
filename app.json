@@ -1,0 +1,9 @@
+{
+ "scenes": [
+  "main",
+  "tabscreen"
+ ],
+ "files": [],
+ "theme": "base",
+ "modules": ["ime"]
+}
